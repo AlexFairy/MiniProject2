@@ -1,0 +1,3 @@
+A01, 2701123232, WaterIsHealthy@email.com, 1234 NE Highwind Ave, Unit 5B, Omaha, NE 90912, Owner of home is retired and his son takes care of him.
+A02, 3056789876, MiamiLife@Yahoo.com, 456 SW 2nd Ct, Miami Beach, FL, 33203, Husband is a retired Army Sgt. Wife is a stay at home gardner. They plan on selling their home next year.
+A03, 4940988761, JollyRancherReds@hotmail.com, 454 NW 3rd St, Atlanta, GA, 76554, N/A
